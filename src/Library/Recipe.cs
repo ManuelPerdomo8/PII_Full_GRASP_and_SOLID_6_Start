@@ -62,5 +62,14 @@ namespace Full_GRASP_And_SOLID
 
             return result;
         }
+        public int GetCookTime()
+        {
+            int time = 0
+            foreach IList<BaseStep>
+            {
+                time += step.time
+            }
+            return time
+        }
     }
 }
